@@ -1,4 +1,16 @@
-=== Real Estate Right Now ===
+# WordPress Real Estate Theme: A Comprehensive and Versatile Theme for Real Estate Professionals #
+
+## The Real Estate theme is designed to cater to the diverse needs of Real Estate Agencies, agents, Realtors, Estate Agents, Real Estate Salespersons, Real Estate Consultants, Property Brokers, and brokers. It is also ideal for individuals involved in various aspects of real estate, including Property, Real Property, Realty, Real Assets, Real Estate Holdings, Real Property Assets, Land and Buildings, Immovable Property, and Real Estate Investments. ##
+
+#### Key Features:
+- **Custom Property Fields**: Powered by a dedicated Real Estate plugin, you can effortlessly create custom property fields, enabling limitless possibilities for property management, searching, and filtering—all without needing to code.
+- **Advanced Property Search**: Benefit from an advanced property search functionality, complete with a convenient price range slider.
+- **Responsive Design**: Enjoy a fully responsive design that looks great on any device.
+- **Customization Options**: Includes a Social menu, extensive color customization options, three footer widgets, and the flexibility to choose between Full or Boxed layouts.
+- **Additional Features**: A sticky header, a ‘Back to Top’ button, and the ability to switch between Light and Dark skins with a single click.
+- **Support and Documentation**: Access an online guide, comprehensive support, and a demo to ensure a seamless experience.
+
+Explore the Real Estate theme today and elevate your real estate business. Visit us at [www.RealEstateTheme.eu](http://www.RealEstateTheme.eu).=== Real Estate Right Now ===
 
 Contributors: sminozzi
 
@@ -125,6 +137,11 @@ License: GNU GPL, Version 2
 
 
 == Changelog ==
+
+= 1.53 = 
+
+Released 2024
+
 = 1.08 =
 
 * Released: January, 31  2018
