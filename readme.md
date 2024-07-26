@@ -20,7 +20,7 @@ Requires at least: WordPress 4.4
 
 Tested up to: WordPress 4.9.2
 
-Version: 1.08
+Version: 1.53
 
 License: GPLv2 or later
 
